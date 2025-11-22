@@ -2,12 +2,12 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e1e7fe,100:dbfbff&height=240&text=ukyung's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 3px solid #d8dee4; color: #282d33;" > Introduce </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;" > Introduce </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> school - Sungshin womens university <br/>
     major - Department of Chinese Language and Literature <br/> double major - Computer Engineering</div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 50px solid #d8dee4; color: #282d33;"> Skills </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Skills </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">

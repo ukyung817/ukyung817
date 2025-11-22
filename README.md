@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e1e7fe,100:dbfbff&height=180&text=ukyung's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 완벽을 향한 꼼꼼함과 도전 열정으로 꾸준히 성장하는, 정유경입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin-top: 20px;"> 완벽을 향한 꼼꼼함과 도전 열정으로 꾸준히 성장하는, 정유경입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
     <div style="text-align: left;">

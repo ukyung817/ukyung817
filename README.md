@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e1e7fe,100:dbfbff&height=240&text=ukyung's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin-bottom: 30px;" > Introduce </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;" > Introduce </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> school - Sungshin womens university <br/>
     major - Department of Chinese Language and Literature <br/> double major - Computer Engineering</div> 
     </div>
@@ -18,14 +18,14 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact </h2> <br> 
     <div align= "center"> <a href=https://www.notion.so/2a6f951bc3a0809da74af891ca977cb4?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/2a6f951bc3a0809da74af891ca977cb4?source=copy_link"> </a>
          <a href=mailto:cara8017@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cara8017@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=ukyung817&bg_color=180,ffffff,00000000&title_color=bfe5fd&text_color=bfe5fd"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=ukyung817&bg_color=180,ffffff,00000000&title_color=bfe5fd&text_color=bfe5fd"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukyung817&layout=compact&bg_color=180,ffffff,00000000&title_color=bfe5fd&text_color=bfe5fd"
            /> </div> 
     </div>

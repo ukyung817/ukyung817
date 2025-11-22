@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33; margin-bottom:10px;"> skills </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
@@ -17,14 +17,14 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33;"> Contact </h2> <br> 
     <div align= "center"> <a href=https://www.notion.so/2a6f951bc3a0809da74af891ca977cb4?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/2a6f951bc3a0809da74af891ca977cb4?source=copy_link"> </a>
          <a href=mailto:cara8017@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cara8017@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=ukyung817&bg_color=180,ecf3fe,00000000&title_color=93b0ec&text_color=93b0ec"
+    <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33;"> Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=ukyung817&bg_color=180,ecf3fe,00000000&title_color=93b0ec&text_color=93b0ec"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukyung817&layout=compact&bg_color=180,ecf3fe,00000000&title_color=93b0ec&text_color=93b0ec"
            /> </div> 
     </div>

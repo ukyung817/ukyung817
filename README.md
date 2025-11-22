@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**ukyung817/ukyung817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e1e7fe,100:dbfbff&height=180&text=ukyung's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>

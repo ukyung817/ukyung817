@@ -25,7 +25,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 3px solid #d8dee4; color: #282d33;"> Stats </h2> <div align= "center">
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃 허 브 아 이 디&show_icons=true&theme=radical) 
+       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
          </div> 
     
     

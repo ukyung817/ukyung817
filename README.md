@@ -24,7 +24,8 @@
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 3px solid #d8dee4; color: #282d33;"> Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=ukyung817&bg_color=180,ecf3fe,00000000&title_color=93b0ec&text_color=93b0ec"
-         /> </div> 
+    <h2 style="border-bottom: 3px solid #d8dee4; color: #282d33;"> Stats </h2> <div align= "center">
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃 허 브 아 이 디&show_icons=true&theme=radical) 
+         </div> 
     
     

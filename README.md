@@ -2,9 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e1e7fe,100:dbfbff&height=240&text=ukyung's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin-bottom: 30px;" > Introduce </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> school - Sungshin womens university <br/>
-    major - Chinese <br/> double major - Computer Engineering</div> 
+    major - Department of Chinese Language and Literature <br/> double major - Computer Engineering</div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Skills </h2> <br> 
